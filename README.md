@@ -1,6 +1,6 @@
 TASK 07
 
-**short note gor speckit plus?
+**short note for speckit plus?
 Ans)Speckit Plus gives you quick,on-screen tips so you can learn your job without long trainings
 
 **core concepts of speckit plus:
@@ -24,3 +24,4 @@ Is part mein plan ko choti choti tasks mein divide kiya jata hai. Har task kisi 
 5)⚙️ Implement Phase
 
 Yeh action stage hai. Ismein coding, building aur sari practical implementation hoti hai.
+
